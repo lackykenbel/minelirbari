@@ -11,7 +11,7 @@
             }
             return -1;
         }
-
+//hello guys
   void Observe(int node, Random random)
     {
         bool[] w = wave[node];
